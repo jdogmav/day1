@@ -1,0 +1,41 @@
+body{
+	background-color: #FFFF00; /*yellow*/
+	color:FFFFFF; /*black*/
+}
+.cotainer{
+	width: 90%
+	margin:0px auto;
+}
+header, nav, main, aside, footer{
+	width:90%;
+	margin:0px auto;
+}
+header{
+	background-color: #006600;
+	padding: 30px;
+}
+nav{
+	background-color: #0000FF; /*blue*/
+
+}
+main{
+	background-color: #990000;/*red*/
+	height:200px;
+	width:70%;
+	float:left;
+	margin-left:5%;
+}
+aside{
+	background-color: #3399ff;
+	height:200px;
+	width:20%;
+	float:left;
+
+}
+footer{
+	background-color: #666699;
+	clear:both;
+	height:75px;
+	width:90%;
+
+}
